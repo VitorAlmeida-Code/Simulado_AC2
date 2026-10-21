@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596023013140",
+    "project_id": "filmes-e-s",
+    "storage_bucket": "filmes-e-s.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596023013140:android:3875f6f0536df13ac41c01",
+        "android_client_info": {
+          "package_name": "com.example.meugerenciadordefilmesesries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8CzxPP9A7FTvLacbmLPP4SkWzW7nyC4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
